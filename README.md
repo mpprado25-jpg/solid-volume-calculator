@@ -1,1 +1,0 @@
-# solid-volume-calculator
